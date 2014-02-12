@@ -3,7 +3,7 @@ RubyAdventures
 
 # Procfile
 
-## Boot process
+## Simple way to boot multidependecy apps (web,workers,memcached,redis..)
 
 
 ### Specify ENV variables .env
