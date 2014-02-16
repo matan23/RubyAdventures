@@ -28,3 +28,6 @@ $ foreman start -c clock=0
 
 ### More
 https://devcenter.heroku.com/articles/procfile#more-process-type-examples
+
+# Rspec
+http://www.neo.com/2013/12/20/custom-failure-messages-in-rspec-given
